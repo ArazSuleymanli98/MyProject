@@ -1,0 +1,11 @@
+<ul aria-label="Regions"  class="lista" title="Regions" >
+
+<a aria-label="Main" href="myfile.html"><li>Main</li></a>
+<a   role=link href="Adana.html" aria-label="Adana"><li>Adana</li></a>
+<a aria-label="Antalya" href="Antalya.html"><li>Antalya</li></a>
+<a aria-label="Hakkari" href="Hakkari.html"><li>Hakkari</li></a>
+<a aria-label="Ordu" href="Ordu.html"><li>Ordu</li></a>
+<a   aria-label="Trabzon"href="Trabzon.html"><li>Trabzon</li></a>
+<a  aria-label="Kayseri"href="Kayseri.html"><li>Kayseri</li></a>
+<a aria-label="Qaziantep" href="Qaziantep.html"><li>Qaziantep</li></a>
+</ul>
